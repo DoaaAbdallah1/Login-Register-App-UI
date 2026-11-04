@@ -23,6 +23,9 @@ class ButtonWidgets extends StatelessWidget {
                     fontSize: 15,
                     color:isLogin? Colors.white: Colors.black,
                     fontWeight: FontWeight.w600,
+                    fontFamily: "Urbanist",
+                    
+
                   ),
                 ),
               );

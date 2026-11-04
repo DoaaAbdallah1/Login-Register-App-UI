@@ -40,6 +40,9 @@ class WelcomeScreen extends StatelessWidget {
                     "Continue as a guest",
                     style: TextStyle(
                       color: Color(0xff35C2C1),
+                      fontFamily: "Urbanist",
+                      fontSize: 15,
+                      fontWeight: FontWeight.bold,
                       decorationColor: Color(0xff35C2C1),
                       decoration: TextDecoration.underline,
                     ),
