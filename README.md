@@ -6,7 +6,7 @@ A Flutter application showcasing a modern and clean Login & Register user interf
 
 ### Demo Video
 
-[Watch the App Demo](assets/videos/final.mp4)
+[▶ Watch the App Demo on YouTube](https://youtu.be/g-TXl39xPi0)
 
 ## Features
 
@@ -14,7 +14,6 @@ A Flutter application showcasing a modern and clean Login & Register user interf
 - Login screen.
 - Register screen.
 - Reusable Flutter widgets.
-
 
 ## Built With
 
